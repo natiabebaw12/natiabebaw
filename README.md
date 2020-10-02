@@ -1,7 +1,7 @@
 ### Hello there, I'm Natnael👋
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=natiabebaw&label=Profile+Views" />
 </p>
 
 - 🏫 I'm a 3rd year Computer Science student at Microlink College, and I will be graduating in July 2021
@@ -47,26 +47,8 @@
 <br />
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#11](https://github.com/codeSTACKr/codeSTACKr/pull/11) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-
-<summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiabeabw&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=natiabeabw&show_icons=true&hide=contribs,issues&theme=cobalt" />
 
 [twitter]: https://twitter.com/codeSTACKr
 [telegram]: https://t.me/Na_Spidey
