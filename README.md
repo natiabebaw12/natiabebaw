@@ -1,8 +1,5 @@
-### Hello there, I'm Natnael👋
+## Hello there, I'm Natnael👋
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=natiabebaw&label=Profile+Views" />
-</p>
 
 - 🏫 I'm a 3rd year Computer Science student at Microlink College, and I will be graduating in July 2021
 - 🌱 I’m currently learning everything 🤣 and also working on my final year project
@@ -47,9 +44,12 @@
 <br />
 <br />
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=natiabebaw&label=Profile+Views" />
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiabeabw&theme=cobalt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=natiabeabw&show_icons=true&hide=contribs,issues&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiabebaw&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=natiabebaw&show_icons=true&hide=contribs,issues&theme=cobalt" />
 
 [twitter]: https://twitter.com/codeSTACKr
 [telegram]: https://t.me/Na_Spidey
