@@ -1,7 +1,7 @@
 ## Hello there, I'm Natnael👋
 
 
-- 🏫 I'm a 3rd year Computer Science student at Microlink College, and I will be graduating in July 2021🙏
+- 🏫 I'm a 4th year Computer Science student at Microlink College, and I will be graduating in July 2021🙏
 - 💪 I’m currently learning everything 😇 and also working on my final year project
 - 🥅 2020 Goals: Contribute more to Open Source projects and working more on my skills
 - 👯 I’m looking to collaborate with anyone
