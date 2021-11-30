@@ -1,8 +1,8 @@
 ## Hello there, I'm Natnael👋
 
 
-- 🏫 I'm a 4th year Computer Science student at Microlink College, and I will be graduating in this year🙏
-- 💪 I’m currently learning everything 😇 and also working on my final year project
+- 🏫 Computer Science Graduate
+- 💪 I’m currently Working as A freelance Developer😇 
 - 🥅 2021 Goals: Contribute more to Open Source projects and working more on my skills
 - 👯 I’m looking to collaborate with anyone
 - ⚡ Fun fact: I love listening to music🎵 and reading books📚
